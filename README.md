@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Yash Bhuva! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**yashbhuva/yashbhuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Passionate Programmer from India.
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td valign="center">
+      
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning everything 🤓
+      
+📫 Reach me out at yash.workmail09@gmail.com
+
+
+
+      
+<td >
+      <a href="https://app.daily.dev/yashbhuva"><img src="https://api.daily.dev/devcards/6a1a3ee5816848d6b39f5720540550ee.png?r=twd" width="300" alt="Yash Bhuva's Dev Card"/></a>
+    </td>
+    
+  </tr>
+  </table>
