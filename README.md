@@ -17,16 +17,12 @@
  <br>
  
  <table>
-  <tr>
-    <td valign="center">
-      
+  <tr>  
  <td>
    <a href="https://github.com/yashbhuva">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhuva&theme=dark&hide_langs_below=1" />
-</a>
-   <td>
-     
-     
+</a>   
+    
 <td>
 <a href="https://app.daily.dev/yashbhuva"><img align="center" src="https://api.daily.dev/devcards/6a1a3ee5816848d6b39f5720540550ee.png?r=twd" width="200" alt="Yash Bhuva's Dev Card"/></a>
     </td>
