@@ -1,4 +1,4 @@
-# Hi, I'm Yash Bhuva! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Yash Bhuva! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href=http://ngivbt.edu.in/> <b>Noble Group of Institution</b>, Junagadh</a>.  
