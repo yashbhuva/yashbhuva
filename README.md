@@ -1,11 +1,11 @@
-# Hi, I'm Yash Bhuva! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+# Hi, I'm Yash Bhuva!
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href=http://ngivbt.edu.in/> <b>Noble Group of Institution</b>, Junagadh</a>.  
-     A Passionate Programmer, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>obsessed</b>
+     A Passionate Programmer, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b>and 
+    <b>excel.</b>
   </em>
  </p>
  <br>
